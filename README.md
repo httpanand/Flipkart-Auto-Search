@@ -1,2 +1,1 @@
-# Flipkart-Auto-Search
-Automatically search in Flipkart with or without logging in to it 
+<h1 align="center"> FLIPKART AUTO SEARCH </h1>
