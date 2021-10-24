@@ -7,7 +7,7 @@ from selenium.webdriver.chrome.options import Options
 import time
 
 
-driver = webdriver.Chrome(executable_path=r'C:\Users\user\Documents\chromedriver.exe') 
+driver = webdriver.Chrome(executable_path=r'your chromedriver path') 
 
 driver.get("https://www.flipkart.com/")
 time.sleep(3)
